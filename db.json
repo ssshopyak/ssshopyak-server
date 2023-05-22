@@ -2,34 +2,34 @@
     "posts": [
       {
         "id": 1,
-        "title": "Post 1",
-        "body": "some comment"
+        "title": "Как джуну найти работу?",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       },
       {
         "id": 2,
-        "title": "Post 2",
-        "body": "some comment"
+        "title": "Коротко і по суті про SoftServe",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       },
       {
         "id": 3,
-        "title": "Post 3",
-        "body": "some comment"
+        "title": "Майкрософт не станет поднимать зарплаты в этом году",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     ],
     "comments": [
       {
         "id": 1,
-        "text": "some comment",
+        "text": "Круто",
         "postId": 1
       },
       {
         "id": 2,
-        "text": "some comment",
+        "text": "Прийму до уваги",
         "postId": 1
       },
       {
         "id": 3,
-        "text": "some comment",
+        "text": "Всім джунам, хай щастить",
         "postId": 1
       }
     ]
